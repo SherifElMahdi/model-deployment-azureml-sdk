@@ -7,3 +7,10 @@ Keras model that classifies IMDB movie reviews into "positive" reviews and "nega
 
 ### Which data set are we using?
 The model is developed using IMDB dataset that comes packaged with Keras. Data has already been preprocessed.
+
+### Prerequisites 
+01. Azure Subscription. Don't have? [Create your Azure Subcription from here](https://azure.microsoft.com/en-us/free/?v=18.45)
+02. Python 3.3 or greater. Don't have? [Download & Install Python](https://www.python.org/downloads/)
+03. Jupyter Notebook. Don't have? [Download & Install Jupyter Notebook](http://jupyter.org/install)
+04. Azure Machine Learning SDK for Python. Don't have? [Install Azure ML Python SDK](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/intro?view=azure-ml-py)
+
