@@ -16,3 +16,8 @@ The model is developed using IMDB dataset that comes packaged with Keras. Data h
 05. Git. Don't have? [Download & Install Local Git](https://git-scm.com/downloads)
 
 If you are lazy to download and install prerequisites, you can use Azure Data Science Virtual Machine (DSVM). DSVM is a pre-configured development/experimentation environment in the Azure cloud that is designed for data science work. [Check it out](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-configure-environment#dsvm)
+
+### New to Azure Machine Learning Service? Check out the documentation
+- [Azure Machine Learning Service](https://docs.microsoft.com/en-us/azure/machine-learning/service/)
+
+Enjoy it!
