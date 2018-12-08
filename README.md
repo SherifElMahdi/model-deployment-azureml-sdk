@@ -5,6 +5,8 @@ In this GitHub repo, we learn how to deploy a keras model using Azure Machine Le
 ### What Model are we deploying?
 Keras model that classifies IMDB movie reviews into "positive" reviews and "negative" reviews, just based on the text content of the review. This model is developed in Chapter 3, Section 5 of [Deep Learning with Python book](https://www.manning.com/books/deep-learning-with-python?a_aid=keras&a_bid=76564dff) by [François Chollet](https://github.com/fchollet). Check his GitHub repo to find how the model is developed. (https://github.com/fchollet/deep-learning-with-python-notebooks/blob/master/3.5-classifying-movie-reviews.ipynb)
 
+Check the repo files to find the model, it's named "BestModel.h5".
+
 ### Which data set are we using?
 The model is developed using IMDB dataset that comes packaged with Keras. Data has already been preprocessed.
 
