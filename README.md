@@ -13,5 +13,6 @@ The model is developed using IMDB dataset that comes packaged with Keras. Data h
 02. Python 3.3 or greater. Don't have? [Download & Install Python](https://www.python.org/downloads/)
 03. Jupyter Notebook. Don't have? [Download & Install Jupyter Notebook](http://jupyter.org/install)
 04. Azure Machine Learning SDK for Python. Don't have? [Install Azure ML Python SDK](https://docs.microsoft.com/en-us/python/api/overview/azure/ml/intro?view=azure-ml-py)
+05. Git. Don't have? [Download & Install Local Git](https://git-scm.com/downloads)
 
 If you are lazy to download and install prerequisites, you can use Azure Data Science Virtual Machine (DSVM). DSVM is a pre-configured development/experimentation environment in the Azure cloud that is designed for data science work. [Check it out](https://docs.microsoft.com/en-us/azure/machine-learning/service/how-to-configure-environment#dsvm)
